@@ -1,2 +1,2 @@
 # Machine_Learning
-This a repo with a series of exercises to lead you in the basics of Machine Learning. Have fun!
+This is a repo with a series of exercises to lead you into Machine Learning and Deep Learning. Have fun!
