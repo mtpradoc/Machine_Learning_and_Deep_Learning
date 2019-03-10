@@ -1,2 +1,2 @@
-# Machine_Learning
+# Machine Learning and Deep Learning
 This is a repo with a series of exercises to lead you into Machine Learning and Deep Learning. Have fun!
